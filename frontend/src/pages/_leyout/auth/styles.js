@@ -34,10 +34,9 @@ export const Content = styled.div`
       }
     }
     span {
-      color: ${lighten(0.03, '#f64c75')};
+      color: ${lighten(0.35, '#c20000')};
       align-self: flex-start;
       margin: 0 0 10px;
-      font-weight: bold;
     }
 
     button {
